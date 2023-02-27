@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm Mohammed, a front-end react developer from Chechen Republic (Russian Federaiton) with 7 months expirience, i specialize in web development and have worked on a variety of projects using react with JavaScript and TypeScript. 
+I'm Mohammed, a front-end react developer from Chechen Republic (Russian Federation) with 7 months expirience, i specialize in web development and have worked on a variety of projects using react with JavaScript and TypeScript. 
 
 ## Projects
 
