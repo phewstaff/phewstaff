@@ -8,7 +8,7 @@ I'm Mohammed, a front-end react developer with 7 months expirience, i specialize
 
 Here are some of the projects I've worked on :
 
-- Instagram clone  (link will be there when i will deploy server-side of that project, untill that u can check that project by installing it locally from my repository ) 
+- Instagram clone  (link will be there when i will deploy server-side of that project, untill that you can check that project by installing it locally from my repository ) 
 - Marvel https://phewstaff.github.io/Marvel - 
 - Todo-list-Typescript-Redux https://phewstaff.github.io/todo-typescript-redux/ - 
 - Internet shop https://phewstaff.github.io/shop/ - 
