@@ -22,6 +22,8 @@ Here are some of the technologies I'm familiar with:
 - JavaSript 
 - TypeScript
 - Redux/RTK/Query
+- HTML5
+- CSS/SCSS
 
 
 <!--
