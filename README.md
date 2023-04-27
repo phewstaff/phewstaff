@@ -9,6 +9,7 @@ I'm Mohammed, a front-end react developer from Chechen Republic (Russian Federat
 Here are some of the projects I've worked on :
 
 - AppleMania https://applemania-frontend.onrender.com
+- Yandex Station adaptive landing page with smooth animations https://phewstaff.github.io/test-task-Yandex-station/
 - Instagram clone  (link will be there when i will deploy server-side of that project, untill that you can check that project by installing it locally from my repository ) 
 - Marvel https://phewstaff.github.io/Marvel - 
 - Todo-list-Typescript-Redux https://phewstaff.github.io/todo-typescript-redux/ - 
@@ -24,7 +25,7 @@ Here are some of the technologies I'm familiar with:
 - Redux/RTK/Query
 - HTML5
 - CSS/SCSS
-
+- Tailwind
 
 <!--
 **phewstaff/phewstaff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
