@@ -8,10 +8,10 @@ I'm Mohammed, a Frontend React Developer from Chechen Republic (Russian Federati
 
 Here are some of the projects I've worked on :
 
-- AppleMania - https://applemania-frontend.onrender.com /currently on debugging
+- AppleMania - https://applemania-frontend.onrender.com/authorization
 - Yandex Station adaptive landing page with smooth animations -https://phewstaff.github.io/test-task-Yandex-station/
-- Instagram clone - https://instagram-clone-snci.vercel.app/ not completely ready yet
-- Marvel - https://phewstaff.github.io/Marvel - 
+- Instagram clone - https://instagram-clone-eight-liart.vercel.app/ not completely ready yet 
+- Marvel - https://phewstaff.github.io/Marvel 
 - Todo-list-Typescript-Redux - https://phewstaff.github.io/todo-typescript-redux/ - 
 
 ## Skills
