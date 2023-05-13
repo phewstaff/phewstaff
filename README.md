@@ -2,24 +2,23 @@
 
 ## About Me
 
-I'm Mohammed, a front-end react developer from Chechen Republic (Russian Federation), i specialize in web development and have worked on a variety of projects using react with JavaScript and TypeScript. 
+I'm Mohammed, a Frontend React Developer from Chechen Republic (Russian Federation), i specialize in web development and have worked on a variety of projects using react with JavaScript and TypeScript. 
 
 ## Projects
 
 Here are some of the projects I've worked on :
 
-- AppleMania - https://applemania-frontend.onrender.com
+- AppleMania - https://applemania-frontend.onrender.com /currently on debugging
 - Yandex Station adaptive landing page with smooth animations -https://phewstaff.github.io/test-task-Yandex-station/
 - Instagram clone - https://instagram-clone-snci.vercel.app/ not completely ready yet
 - Marvel - https://phewstaff.github.io/Marvel - 
 - Todo-list-Typescript-Redux - https://phewstaff.github.io/todo-typescript-redux/ - 
-- Internet shop - https://phewstaff.github.io/shop/ - 
 
 ## Skills
 
 Here are some of the technologies I'm familiar with:
 
-- React
+- React, NextJs
 - JavaSript 
 - TypeScript
 - Redux/RTK/Query
