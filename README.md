@@ -9,7 +9,7 @@ I'm Mohammed, a Frontend React Developer from Chechen Republic (Russian Federati
 Here are some of the projects I've worked on :
 
 - AppleMania - https://applemania-frontend.onrender.com/authorization
-- Instagram clone - https://instagram-clone-eight-liart.vercel.app/ not completely ready yet 
+- Instagram clone - https://instagram-clone-eight-liart.vercel.app/ auth Demo: login: unicodebootcamp   password: unicode1
 - Marvel - https://phewstaff.github.io/Marvel 
 - Yandex Station adaptive landing page with smooth animations -https://phewstaff.github.io/test-task-Yandex-station/
 
