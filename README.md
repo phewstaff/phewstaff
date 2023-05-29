@@ -25,7 +25,7 @@ Here are some of the technologies I'm familiar with:
 - Redux/RTK/Query
 - HTML5
 - CSS/SCSS
-- Tailwind
+- Tailwind css
 
 <!--
 **phewstaff/phewstaff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
