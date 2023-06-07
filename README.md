@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-## About Me
+## About me
 
 I'm Mohammed, a Frontend React Developer from Chechen Republic (Russian Federation), i specialize in web development and have worked on a variety of projects using react with JavaScript and TypeScript. 
 
