@@ -21,7 +21,7 @@ Here are some of the projects I've worked on :
 
 Here are some of the technologies I'm familiar with:
 
-- React, NextJs
+- React,React-native, NextJs
 - JavaSript 
 - TypeScript
 - Redux/RTK/Query
