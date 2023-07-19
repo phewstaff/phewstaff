@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm Mohammed, a Frontend React Developer from Chechen Republic (Russian Federation), i specialize in web development and have worked on a variety of projects using react with JavaScript and TypeScript. 
+I'm Mohammed, a Frontend React Developer from Chechen Republic (Russian Federation), i specialize in web development and have worked on a variety of projects using React and React-native with JavaScript and TypeScript. 
 
 ## Projects
 
@@ -21,13 +21,13 @@ Here are some of the projects I've worked on :
 
 Here are some of the technologies I'm familiar with:
 
-- React,React-native, NextJs
-- JavaSript 
-- TypeScript
+- React/React-native, NextJs
+- JavaSript/TypeScript
 - Redux/RTK/Query
 - HTML5
 - CSS/SCSS
 - Tailwind css
+- and more...
 
 <!--
 **phewstaff/phewstaff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
