@@ -9,11 +9,11 @@ I'm Mohammed, a Frontend React Developer, i specialize in web development and ha
 Here are some of the projects I've worked on :
 
 - Mobile app for reading articles built with react-native - https://github.com/phewstaff/News-React-native
+- Visualiser of sort algorithms - https://github.com/phewstaff/WB-L2-Sort-Visualizer
+- Task-planner React - https://wb-l2-task-planner.vercel.app/
 - Instagram clone - https://instagram-clone-eight-liart.vercel.app/ auth Demo: login: unicodebootcamp   password: unicode1
 - Advanced posts application with additional page about me - https://posts-phewstaff.vercel.app
 - Mock data-table with autorization and registration. made using Next js  - https://data-table-test-task.vercel.app/auth  Demo  email: eve.holt@reqres.in     password: whatever u like, because im using fake api from reqres/in.com 
-- AppleMania - https://applemania-frontend.onrender.com/authorization
-- Marvel - https://phewstaff.github.io/Marvel 
 - Yandex Station adaptive landing page with smooth animations - https://phewstaff.github.io/test-task-Yandex-station/
 
 
